@@ -2,9 +2,6 @@
 ~~trying to force myself to study~~
 
 ## ***this will be a kind of diary of my achievements***
-- [DAY 1](#day-1)
-
-
 
 # #**DAY 1**:sparkles:
 today I'm going to try to recreate an instastory style site that I found on pinterest, let's see if I remember anything from a web development course at the university, because now I'll try to recreate the html / scc code to visually get something adequate
