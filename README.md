@@ -15,3 +15,7 @@ conclusions:
 
 it was foolish to try to make a site for a laptop format from an example site for a phone. adaptive styles are still difficult for me, so I wrote the worst shit code that is embarrassing to show
 
+
+# #**DAY 2**:sparkles:
+
+
