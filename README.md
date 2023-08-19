@@ -17,6 +17,6 @@ it was foolish to try to make a site for a laptop format from an example site fo
 
 
 # #**DAY 2**:sparkles:
-today i made just a regular calculator, you can use it here
+## today i made just a regular calculator, you can use it [here](https://defur.github.io/calculattor/)
 
 <img src="https://github.com/defur/monkey_become_frontend_dev/blob/main/img/Screenshot_4.png">
