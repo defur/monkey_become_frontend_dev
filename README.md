@@ -25,9 +25,9 @@ it was foolish to try to make a site for a laptop format from an example site fo
 ## today I completed the calculator, now it is not just a "picture" but also works
 I couldn't solve the problem that I had, I wanted that after the output of the result of calculations, when you click on a number, the data disappeared and at the same time the pressed number was recorded, but it turned out that when you click on any number first everything is erased and when you click again begins to record a new example, I don't know what to do with it, I'll just leave it like that.
 
-# #**DAY 4**:sparkles:
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGFiZW54NmF6eXRnd2x0ZWt5a2NtcHY4OTV0M2dyMGs0ZnJvbWU3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VWhPP1v7NngjCjbTXH/giphy.gif">
 
 ### sooooo if anyone is interested ~~fuck, I'd be shocked if anyone in this world is interested~~, you can find my project in [this repository](https://github.com/defur/calculattor)
 
+# #**DAY 4**:sparkles:
 
